@@ -4,4 +4,4 @@ To build the package you need uglify as global:
 npm install -g uglify-js
 
 Run the following command to build the dist folder with specified modules:
-node build.js modules=ALL exclude=node,easing,freedrawer,animation no-strict no-svg-export
+node build.js modules=ALL exclude=node,easing,freedrawer
